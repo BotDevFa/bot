@@ -1,0 +1,2 @@
+﻿aiohttp[speedup]
+requests
